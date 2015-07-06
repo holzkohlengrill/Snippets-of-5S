@@ -38,8 +38,8 @@ Provide stuff to support the improvement process, that is “shadowboards”, ca
 3. Seiso – Sweep
 Cleanness means safety. This step supports a kind of revision of steps Seiton and Seiri. A clean working area provides higher motivation during work. Eliminate causes of dirt. Fix or replace damaged equipment.
 
-
 >> Schedule what cannot be done right now.
+
 4. Seiketsu – Standardise
 Do not implement 5S without this step. As a result of PDCA standardisation keeps the system going and allows further improvements – all the time. Set standards which are realisable. Improve and maintain these standards. Visualise them. Visualise their progress. Note that one goal is that almost everyone could do this work after standardisation (>> polyvalence).
 
