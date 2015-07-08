@@ -13,7 +13,7 @@ For clarification, I want to list some (partly subjective) statements regarding 
 
 Common saying: A place for everything and everything in its place (associated with Samuel Smiles, Mrs Isabella Beeton and Benjamin Franklin).
 
-As a remainder: what are the original 5Ses stand for (derived from Japanese) and what is their main idea:
+As a remainder: what are the original 5Ses stand for (derived from Japanese):
 
 1. Seiri – Sort
 2. Seiton – Simplify
