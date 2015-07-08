@@ -4,7 +4,7 @@ One could call this tool as the basis in lean management. Unfortunately the impl
 For clarification, I want to list some (partly subjective) statements regarding 5S – what it is and what it is not:
 
 <h2>5S …</h2>
-	… is helps creating standards, NOT a laws
+	… is helps creating standards; a standard is NOT a law
 	… is NOT just a tool; it is part of the lean philosophy
 	… is pointless whether it is not accepted
 	… is intended to get work done better (>> focus lies on the employees)
