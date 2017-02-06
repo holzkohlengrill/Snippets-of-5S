@@ -46,8 +46,3 @@ Do not implement 5S without this step. As a result of PDCA standardisation it ke
 
 <h2>5. Shitsuke – Self Discipline</h2>
 Use Top-Down approach. There will not be any improvement (on the long run) if the management does not live and respect the philosophy and its standards. Do audits. Be aware that theses audits are part of the improvement process and not a tool to penalise the employees. Emphasise and visualise their progress, not failure.
-
-
-# test
-&#9251;
-`&#9251;`
